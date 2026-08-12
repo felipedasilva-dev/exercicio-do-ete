@@ -1,0 +1,49 @@
+/* Configuração geral do corpo do site */
+body {
+font-family: Arial, sans-serif;
+background-color: #f4f7f6;
+color: #000000;
+max-width: 800px;
+margin: 0 auto;
+padding: 20px;
+}
+/* Estilização do cabeçalho */
+header {
+background-color: #1a252f;
+color: #ffffff;
+padding: 20px;
+text-align: center;
+border-radius: 8px;
+}
+header h1 {
+margin: 0 0 10px 0;
+}
+/* Links de navegação */
+nav a {
+color: #3498db;
+text-decoration: none;
+font-weight: bold;
+}
+nav a:hover {
+text-decoration: underline;
+}
+/* Seções de conteúdo */
+section {
+
+background-color: #ffffff;
+padding: 20px;
+margin-top: 20px;
+border-radius: 8px;
+box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+h2 {
+color: #2c3e50;
+border-bottom: 2px solid #3498db;
+padding-bottom: 5px;
+}
+/* Rodapé */
+footer {
+text-align: center;
+margin-top: 30px;
+color: #7f8c8d;
+}
